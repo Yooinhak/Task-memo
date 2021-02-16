@@ -1,0 +1,23 @@
+body {
+  background-color: #ecf0f1;
+  color: #34495e;
+}
+span {
+  font-size: 30px;
+  margin-right: 5px;
+}
+
+button {
+  margin-right: 5px;
+  background-color: palevioletred;
+}
+
+.task_box {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  background-color: paleturquoise;
+  align-items: center;
+  border-radius: 5%;
+}
